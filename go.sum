@@ -254,6 +254,8 @@ github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
+github.com/zokypesch/proto-lib v0.4.88 h1:Nl892uLAFf74UnhLzL+u73XiXf9LNlGLpORq0jYiRo4=
+github.com/zokypesch/proto-lib v0.4.88/go.mod h1:Cd2vF79+XouXgAG48ClWUEHeCsgnhbU4JuQnE9/H7IM=
 go.elastic.co/apm v1.8.0 h1:AWEKpHwRal0yCMd4K8Oxy1HAa7xid+xq1yy+XjgoVU0=
 go.elastic.co/apm v1.8.0/go.mod h1:tCw6CkOJgkWnzEthFN9HUP1uL3Gjc/Ur6m7gRPLaoH0=
 go.elastic.co/apm/module/apmgrpc v1.8.0 h1:V1/+Y6tZ07BMdrV+HTkaQYlpwqMz9EkQJw4KMg1b0jE=
