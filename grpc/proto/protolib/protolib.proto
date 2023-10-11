@@ -2,11 +2,11 @@ syntax = "proto3";
 
 // DO_NOT_GENERATE
 
-option go_package = "github.com/zokypesch/proto-lib/grpc/pb/protolib";
+option go_package = "github.com/HarryChang30/proto-lib/grpc/pb/protolib";
 package protolib;
 
 import "google/api/annotations.proto";
-import "github.com/zokypesch/proto-lib/proto/options.proto";
+import "github.com/HarryChang30/proto-lib/proto/options.proto";
 import "google/protobuf/timestamp.proto";
 import "google/protobuf/empty.proto";
 

@@ -3,12 +3,13 @@ package core_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/zokypesch/proto-lib/core"
-	"github.com/zokypesch/proto-lib/grpc/pb/protolib"
-	"google.golang.org/grpc/codes"
-	"google.golang.org/grpc/status"
 	"log"
 	"testing"
+
+	"github.com/HarryChang30/proto-lib/core"
+	"github.com/HarryChang30/proto-lib/grpc/pb/protolib"
+	"google.golang.org/grpc/codes"
+	"google.golang.org/grpc/status"
 )
 
 type DummyError struct {

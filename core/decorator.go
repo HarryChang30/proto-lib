@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"strings"
 
+	utils "github.com/HarryChang30/proto-lib/utils"
 	"github.com/jinzhu/gorm"
-	utils "github.com/zokypesch/proto-lib/utils"
 )
 
 type Rules string
@@ -27,7 +27,7 @@ type Decorator struct {
 	list  interface{}
 }
 
-//NewServiceDecorator new service query decorator
+// NewServiceDecorator new service query decorator
 func NewServiceDecorator(db *gorm.DB, list interface{}) *Decorator {
 	return &Decorator{db, list}
 }

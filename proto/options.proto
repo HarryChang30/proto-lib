@@ -2,7 +2,7 @@ syntax = "proto3";
 
 import "google/protobuf/descriptor.proto";
 
-option go_package = "github.com/zokypesch/proto-lib/proto";
+option go_package = "github.com/HarryChang30/proto-lib/proto";
 
 extend google.protobuf.MethodOptions {
     string httpMode = 50056;
